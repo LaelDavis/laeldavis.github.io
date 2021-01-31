@@ -422,13 +422,13 @@ height: 800px;
 top: 20px;
 left: 10px;
 right:500px;
-background: url(../img/hello_lael96.png) no-repeat;
+background: url(../img/iamlael3.png) no-repeat;
 z-index: 500;
 }
 
 @media only screen and (max-width: 500px) {
   .logo {
-	background: url(../img/hello_lael96.png) no-repeat;
+	background: url(../img/iamlael3.png) no-repeat;
   }
 }
 
